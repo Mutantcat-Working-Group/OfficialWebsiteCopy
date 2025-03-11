@@ -1,0 +1,84 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<url> 
+	<loc>https://mutantcat.org/</loc> 
+	<priority>1.0</priority>
+	</url> 
+	
+	<url> 
+	<loc>https://mutantcat.org/software</loc> 
+	</url> 
+
+	<url> 
+	<loc>https://www.mutantcat.org/software/ipaperdoll</loc> 
+	</url> 
+
+	<url> 
+	<loc>https://www.mutantcat.org/software/honeycomb</loc> 
+	</url> 
+
+	<url> 
+	<loc>https://www.mutantcat.org/software/cloudstep</loc> 
+	</url> 
+
+	<url> 
+	<loc>https://www.mutantcat.org/software/echoes</loc> 
+	</url> 
+
+	<url> 
+	<loc>https://www.mutantcat.org/software/ucatch</loc> 
+	</url> 
+
+	<url> 
+	<loc>https://www.mutantcat.org/software/changeprinter</loc> 
+	</url> 
+
+	<url> 
+	<loc>https://www.mutantcat.org/software/simplesmallutil</loc> 
+	</url> 
+
+	<url> 
+	<loc>https://www.mutantcat.org/software/fishmusic</loc> 
+	</url> 
+	
+	<url> 
+	<loc>https://mutantcat.org/game</loc> 
+	</url> 
+	
+	<url> 
+	<loc>https://www.mutantcat.org/service</loc> 
+	</url> 
+
+	<url> 
+	<loc>https://www.mutantcat.org/service/remoteassistance</loc> 
+	</url> 
+	
+	<url> 
+	<loc>https://www.mutantcat.org/competition</loc> 
+	</url> 
+
+	<url> 
+	<loc>https://www.mutantcat.org/competition/1th</loc> 
+	</url> 
+	
+	<url> 
+	<loc>https://www.mutantcat.org/about</loc> 
+	</url> 
+
+	<url> 
+	<loc>https://www.mutantcat.org/demand</loc> 
+	</url> 
+
+
+	<url> 
+	<loc>https://www.mutantcat.org/feedback</loc> 
+	</url> 
+
+	<url> 
+	<loc>https://www.mutantcat.org/joinus</loc> 
+	</url> 
+
+	<url> 
+	<loc>https://www.mutantcat.org/search</loc> 
+	</url> 
+	
+</urlset>
