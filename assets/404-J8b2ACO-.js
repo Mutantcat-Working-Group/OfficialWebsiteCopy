@@ -1,0 +1,1 @@
+import{_ as s,o as t,c as a,p as _,b as n,a as e}from"./index-5F5fpFLS.js";const d={},c=o=>(_("data-v-0d663c40"),o=o(),n(),o),p={class:"container"},r=c(()=>e("h1",null,"404",-1)),i=c(()=>e("p",null,"Page not found.",-1)),l=[r,i];function h(o,f){return t(),a("div",p,l)}const m=s(d,[["render",h],["__scopeId","data-v-0d663c40"]]);export{m as default};
